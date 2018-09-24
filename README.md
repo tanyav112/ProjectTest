@@ -8,4 +8,4 @@ by using the Fun Things to Do button that will let them run a Foursquare search.
 
 How to Use the app
 #1 Sign in to the app using the Sign up botton 
-![](Sign In Intro.gif)
+![`Sign In Intro`](Sign In Intro.gif)
